@@ -1,0 +1,17 @@
+C:\Users\14529929\source\repos\VersoAnimaliForm\bin\Debug\net10.0-windows\VersoAnimaliForm.exe
+C:\Users\14529929\source\repos\VersoAnimaliForm\bin\Debug\net10.0-windows\VersoAnimaliForm.deps.json
+C:\Users\14529929\source\repos\VersoAnimaliForm\bin\Debug\net10.0-windows\VersoAnimaliForm.runtimeconfig.json
+C:\Users\14529929\source\repos\VersoAnimaliForm\bin\Debug\net10.0-windows\VersoAnimaliForm.dll
+C:\Users\14529929\source\repos\VersoAnimaliForm\bin\Debug\net10.0-windows\VersoAnimaliForm.pdb
+C:\Users\14529929\source\repos\VersoAnimaliForm\obj\Debug\net10.0-windows\VersoAnimaliForm.Form1.resources
+C:\Users\14529929\source\repos\VersoAnimaliForm\obj\Debug\net10.0-windows\VersoAnimaliForm.csproj.GenerateResource.cache
+C:\Users\14529929\source\repos\VersoAnimaliForm\obj\Debug\net10.0-windows\VersoAnimaliForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14529929\source\repos\VersoAnimaliForm\obj\Debug\net10.0-windows\VersoAnimaliForm.AssemblyInfoInputs.cache
+C:\Users\14529929\source\repos\VersoAnimaliForm\obj\Debug\net10.0-windows\VersoAnimaliForm.AssemblyInfo.cs
+C:\Users\14529929\source\repos\VersoAnimaliForm\obj\Debug\net10.0-windows\VersoAnimaliForm.csproj.CoreCompileInputs.cache
+C:\Users\14529929\source\repos\VersoAnimaliForm\obj\Debug\net10.0-windows\VersoAnimaliForm.dll
+C:\Users\14529929\source\repos\VersoAnimaliForm\obj\Debug\net10.0-windows\refint\VersoAnimaliForm.dll
+C:\Users\14529929\source\repos\VersoAnimaliForm\obj\Debug\net10.0-windows\VersoAnimaliForm.pdb
+C:\Users\14529929\source\repos\VersoAnimaliForm\obj\Debug\net10.0-windows\VersoAnimaliForm.genruntimeconfig.cache
+C:\Users\14529929\source\repos\VersoAnimaliForm\obj\Debug\net10.0-windows\ref\VersoAnimaliForm.dll
+C:\Users\14529929\source\repos\VersoAnimaliForm\obj\Debug\net10.0-windows\VersoAnimaliForm.Properties.Resources.resources
